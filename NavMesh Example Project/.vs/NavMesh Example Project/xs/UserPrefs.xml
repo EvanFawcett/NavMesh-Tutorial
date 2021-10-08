@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Example02 - Obstacles/ObstacleAnimation.cs">
+    <Files>
+      <File FileName="Assets/NavMeshComponents/Scripts/PlayerController.cs" Line="19" Column="49" />
+      <File FileName="Assets/Example03 - Runtime/LevelGenerator.cs" Line="21" Column="26" />
+      <File FileName="Assets/Example02 - Obstacles/ObstacleAnimation.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0e0b1b50-f16b-4577-a168-c2c909af01b1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
