@@ -140,7 +140,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!208 &17701882
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -810,7 +810,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &828601973
 Transform:
   m_ObjectHideFlags: 0
@@ -1091,6 +1091,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 906444439}
   agent: {fileID: 1112826214}
+  character: {fileID: 0}
 --- !u!195 &1112826214
 NavMeshAgent:
   m_ObjectHideFlags: 0

@@ -546,6 +546,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 906444439}
   agent: {fileID: 1112826214}
+  character: {fileID: 0}
 --- !u!195 &1112826214
 NavMeshAgent:
   m_ObjectHideFlags: 0
